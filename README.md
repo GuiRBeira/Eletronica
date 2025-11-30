@@ -39,11 +39,11 @@ O objetivo é centralizar tudo em um lugar organizado para facilitar revisões, 
 
 ```bash
 Eletronica/
-├── Eletronica_A/
+├── eletronica-A/
 │ ├── slides/
 │ └── provas_antigas/
 │
-└── Eletronica_B/
+└── eletronica-B/
 ├── slides/
 └── provas_antigas/
 ```
